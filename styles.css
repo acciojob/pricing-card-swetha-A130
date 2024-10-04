@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.card {
+    width: 300px;
+    padding: 20px;
+    background-color: #f4f4f4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-title {
+    /* Add your styles for the title here */
+}
+
+.card-price {
+    /* Add your styles for the pricing information here */
+}
+
+.card-desc {
+    /* Add your styles for the description here */
+}
+
+.card-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+}
